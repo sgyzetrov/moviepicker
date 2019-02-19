@@ -1,12 +1,12 @@
 # moviepicker
 
-if you cannot decide which movie to go for, let moviepicker decide!
+If you cannot decide which movie to go for, let 🎬moviepicker decide!
 
 ## How it all started
 
-Me and my pals were just having trouble picking out the right movie, it's a crap, but we gotta pick one, so one of my bros was just like `random()` and others were like saying `random() % 2`, it hit me, so I said: good idea, hold on...
+Me and my pals were having trouble picking out the right movie, it was all crap, but we gotta pick one. So one of my bros was like 'why not `random()`?' and others were like 'yeah, go with `random() % 2`!'. Then it hit me, so I said: good idea, hold on...
 
-Of course on such short notice I did not get to finish a complete function, just like one command, like `for(i in 1:5) cat(sample(0:1)[1])`, but then after things settled down, I completed this program. Just a toy, but still, lots of good memory...
+Of course on such short notice I did not get to finish this complete function, at the moment I just use one line of code: `for(i in 1:5) cat(sample(0:1)[1])`. But then after things settled down, I completed this program. This is just a toy, but still, lots of good memory...
 
 ## Input & Run & Output
 
